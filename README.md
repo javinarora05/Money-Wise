@@ -72,12 +72,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-_Add your project screenshots here_
-
----
-
 ## 🎯 Usage
 
 - Add your income and expenses  
